@@ -1,3 +1,3 @@
 # latihan-branch-development
 
-belajar Github asik lo.
+belajar Github susah lo.
